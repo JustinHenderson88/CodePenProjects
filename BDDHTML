@@ -1,0 +1,25 @@
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+      
+      <li><a href="#">Food Menu</a>
+        <!--first tier dropdown-->
+        <ul>
+            <li><a href="#">Burgers</a></li>
+            <li><a href="#">Salads</a></li>
+            <li><a href="#">Pasta</a></li>
+        </ul>
+        <!--Second Tier Dropdown-->
+        <ul>
+          <li><a href="#">Burgers</a></li>
+            <li><a href="#">Salads</a></li>
+            <li><a href="#">Pasta</a></li>
+        </ul>
+      </li>
+      
+         <li><a href="#">Design</a></li>
+        <li><a href="#">Inspiration</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">About</a></li>
+    </ul>
+</nav>
