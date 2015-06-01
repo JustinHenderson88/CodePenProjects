@@ -1,25 +1,55 @@
+
+<body>
 <nav>
+  
     <ul>
         <li><a href="#">Home</a></li>
       
-      <li><a href="#">Food Menu</a>
+      <li><a href="#">Burger Menu</a>
         <!--first tier dropdown-->
-        <ul>
-            <li><a href="#">Burgers</a></li>
-            <li><a href="#">Salads</a></li>
-            <li><a href="#">Pasta</a></li>
-        </ul>
-        <!--Second Tier Dropdown-->
-        <ul>
-          <li><a href="#">Burgers</a></li>
-            <li><a href="#">Salads</a></li>
-            <li><a href="#">Pasta</a></li>
-        </ul>
-      </li>
+  <ul>
+
+  <li><a href="#">Ham Burger</a></li>
+          
+  <li><a href="#">CheeseBurgers</a>
+<!--second tier dropdown-->
+      <ul>
       
-         <li><a href="#">Design</a></li>
-        <li><a href="#">Inspiration</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="#">BaconCheeseburger</a></li>
+        <li><a href="#">DoubleCheeseburger</a></li>
+        
+      </ul>
+  
+  </li>
+  
+  <li><a  href="#">Veggie Burger</a></li>
+          
+  <li><a href="#">Bison Burger</a>
+
+  </ul>
+
+    </li>
+        
+       
+        <li><a href="#">Drink Menu</a>
+           <ul>
+             <li><a href="#">Cocktails</a></li> 
+             <li><a href="#">Beers</a></li> 
+             <li><a href="#">Wine</a></li> 
+           </ul>
+        </li>
+            <li><a href="#">Inspiration</a>
+          <ul>
+            <li><a href="#">Our Story</a></li>
+          </ul>
+        </li>
+            <li><a href="#">Contact</a>
+         <ul>
+            <li><a href="#">@Gmail</a></li>
+         </ul>
+              
+      </li>
+            
     </ul>
 </nav>
+</body>    
