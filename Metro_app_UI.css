@@ -1,0 +1,76 @@
+body {
+  background: #000000;
+}
+/*main_head*/
+
+.main_head {
+  font-size: 50px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-bottom: 90px;
+}
+/*metro logo*/
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*container*/
+
+.container {
+  width: 1000px;
+  margin: 50px auto 0 auto;
+}
+/*lines*/
+
+#line {
+  font-size: 25px;
+  font-family: Ultra;
+  text-align: center;
+  color: #fff;
+  border-style: solid;
+  border-color: #000000;
+  -moz-border-radius: 62px 62px 62px 62px;
+  -webkit-border-radius: 62px 62px 62px 62px;
+  border-radius: 62px 62px 62px 62px;
+  width: 120px;
+  height: 40px;
+  float: right;
+  margin-right: 30px;
+}
+/*yellow line*/
+
+.yellow {
+  background-color: #FFE800;
+}
+/*blue line*/
+
+.blue {
+  background-color: #10068C;
+}
+/*green line*/
+
+.green {
+  background-color: #095E00;
+}
+/*orange line*/
+
+.orange {
+  background-color: #FF7400;
+}
+/*red line*/
+
+.red {
+  background-color: #FB0023;
+}
+/*silver line*/
+
+.silver {
+  background-color: #7E7D82;
+}
+
+#line:hover {
+  opacity: .8;
+  filter: alpha(opacity=80);
+}
